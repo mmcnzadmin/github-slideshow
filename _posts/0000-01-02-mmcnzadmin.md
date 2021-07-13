@@ -12,4 +12,4 @@ I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
 
-I thought will say thank you for the wonderful work you did.
+"Time and tides wait for none, not even for king and queens what we speak of general masses"
